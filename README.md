@@ -1,7 +1,7 @@
 # Expense Tracker
 > <Subtitle>
 
-> Expense tracker made using React.js which keeps of your yearly expenses
+> Expense tracker made using React.js which keeps track of yearly and monthly expenses
 
 ## Installation
 ```
