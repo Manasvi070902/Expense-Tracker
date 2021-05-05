@@ -5,8 +5,8 @@
 
 
 ## Screenshot
-<img src="https://github.com/Manasvi070902/Expense-Tracker/tree/master/img/img2.png" alt="Project Screenshots">
-<img src="https://github.com/Manasvi070902/Expense-Tracker/tree/master/img/img1.png" alt="Project Screenshots">
+<img src="https://github.com/Manasvi070902/Expense-Tracker/blob/master/img/img2.png" alt="Project Screenshots">
+<img src="https://github.com/Manasvi070902/Expense-Tracker/blob/master/img/img1.png" alt="Project Screenshots">
 
 ## Installation
 ```
